@@ -6,7 +6,9 @@ Welcome to the pizza maker
 
 3)Keep it in oven after applying the sausage paste
 
-4)Pack it and parcel
+4)Make it in round shape
+
+5)Pack it and parcel
 
 
 Regards
